@@ -1,0 +1,57 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+
+button {
+    font-weight: bold;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 200px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 30px;   
+
+}
+
+
+#btn-save {
+    background-color: rgba(84, 221, 255, 0.7);
+}
+
+#btn-count {
+    background-color: rgba(213, 219, 224, 0.7);
+}
+
+p {
+    color: rgb(255, 255,255, 255);
+}
+
+
+#record {
+    color:#ffffff ;
+    font-weight: bold;
+    font-size: medium;
+}
+
+/* .contain {
+    background-color: rgba(0, 0, 0, 0.116);
+    max-width: 40%;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+} */
